@@ -21,6 +21,7 @@ public class UIController : MonoBehaviour
 	void Start() {
 		this.scoreText = GameObject.Find("Score");
 		this.gameOverText = GameObject.Find("GameOver");
+		
 	}
 
 	void Update() {

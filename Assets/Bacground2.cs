@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class BackgroundController : MonoBehaviour
+public class Bacground2 : MonoBehaviour
 {
 
 	void Update() {
